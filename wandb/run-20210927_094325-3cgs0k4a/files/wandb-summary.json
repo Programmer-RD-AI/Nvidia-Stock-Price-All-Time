@@ -1,0 +1,1 @@
+{"Loss": 553.0189208984375, "_runtime": 362, "_timestamp": 1632716367, "_step": 299, "Val Loss": 548.9358520507812, "Img": {"_type": "image-file", "path": "media/images/Img_299_45cea28d85f9287a9ac9.png", "sha256": "45cea28d85f9287a9ac9ebe24ae708639c52b4d9563d4a3e50c9ea85acb49bdf", "size": 14323, "format": "png", "width": 864, "height": 504}, "_wandb": {"runtime": 361}}
